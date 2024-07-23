@@ -1,0 +1,89 @@
+body { font-family: sans-serif;
+	background-color: white;
+}
+.copyright {
+	text-align: center;
+	color: black;
+}
+
+.pink {
+	background-color: #6699ff;
+
+}
+
+.email {
+	color: pink;
+}
+
+.phone {
+	color: pink;
+}
+
+.fax {
+	color: pink
+}
+
+.address {
+	color: pink;
+}
+
+.get {
+	color: white; font-weight: lighter; margin-left: 35%;
+	font-size: 20px
+}
+
+.touch {
+	font-weight: bold; 
+
+}
+
+.in {
+	color: white;
+}
+
+.form{
+	display: flex;
+	flex-direction: column;
+}
+
+.form input{
+	width: 92%;
+	margin right: : 20PX;
+	background: pink;
+	color: white;
+
+}
+
+.form textarea{
+	width: 92%%
+	margin-right: 20px;
+	background: pink;
+	color: white;
+}
+.form button{
+	padding: 10px;
+	background-color: pink;
+	color: magenta;
+	border-radius: 28px;
+	width: 25%;
+}
+
+.CV{
+    padding: 5px;
+	background-color: pink;
+	color: magenta;
+	border-radius: 20px;
+	width: 30%;	
+}
+
+.HIRE{
+	    padding: 5px;
+	background-color: pink;
+	color: magenta;
+	border-radius: 20px;
+	width: 20%;	
+}
+
+.developer1{
+	color: black;
+}
